@@ -1,16 +1,136 @@
-# React + Vite
+# 🌐 Deepanshu Soni - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website built using React, Vite, and Tailwind CSS to showcase my technical skills, backend development projects, and professional experience.
 
-Currently, two official plugins are available:
+🔗 Live Portfolio:
+https://deepanshu-portfolio-website.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 About
 
-## React Compiler
+This portfolio highlights my experience as a Python Backend Developer specializing in:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Django
+* Django REST Framework
+* FastAPI
+* Redis
+* WebSockets
+* PostgreSQL
+* MySQL
+* AI Integration
+* REST API Development
 
-## Expanding the ESLint configuration
+The website serves as a central place to showcase my projects, technical expertise, GitHub profile, resume, and contact information.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+### 🏠 Hero Section
+
+* Professional introduction
+* Resume download option
+* Quick project navigation
+* Mobile responsive design
+
+### 👨‍💻 About Me
+
+* Professional summary
+* Experience highlights
+* Technical expertise overview
+
+### 🛠️ Technical Skills
+
+* Backend Technologies
+* Databases
+* DevOps Tools
+* AI & Data Processing Tools
+
+### 🚀 Featured Projects
+
+* Scalable Social Media Backend
+* AI Powered Backend System
+* AI Stock Analysis Platform
+* Consciousroot Marketplace
+* Healium Healthcare Platform
+* Anchal Project
+
+### 📞 Contact Section
+
+* Email
+* GitHub
+* LinkedIn
+* Location
+
+### 📱 Responsive Design
+
+* Mobile Friendly
+* Tablet Friendly
+* Desktop Optimized
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+
+### Deployment
+
+* GitHub
+* Vercel
+
+### Version Control
+
+* Git
+* GitHub
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Skills.jsx
+│   ├── Projects.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## 🚀 Deployment
+
+The portfolio is deployed on Vercel.
+
+Live URL:
+
+https://deepanshu-portfolio-website.vercel.app/
+
+---
+
+## 👨‍💻 Author
+
+### Deepanshu Soni
+
+Python Backend Developer
+
+LinkedIn:
+https://www.linkedin.com/in/deepanshu-soni-033b181a7/
+
+GitHub:
+https://github.com/deep1996feb
+
+Portfolio:
+https://deepanshu-portfolio-website.vercel.app/
