@@ -37,7 +37,7 @@ function Projects() {
     },
     {
       badge: "📈 AI Finance Project",
-      highlight: "🚧 Code Coming Soon",
+      highlight: "📈 Real-Time Market Analysis",
       title: "AI Stock Analysis Platform",
       description:
         "An AI-powered stock analysis platform that fetches live stock data, calculates SMA/EMA indicators, analyzes market trends, generates Buy/Sell recommendations, and provides AI explanations.",
@@ -49,7 +49,7 @@ function Projects() {
         "Buy/Sell Recommendation",
         "AI Explanation",
       ],
-      github: null,
+      github: "https://github.com/deep1996feb/AI-Stock-Analysis",
       type: "wip",
     },
     {
